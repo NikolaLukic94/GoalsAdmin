@@ -1,3 +1,3 @@
 # Goals CRUD
 
-Built with Express, React and MongoDB
+Built with Express, React/Redux and MongoDB
